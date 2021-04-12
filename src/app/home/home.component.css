@@ -1,0 +1,35 @@
+.btn1{
+    background-color: #393e46;
+    height: 12vh;
+  border: none;
+  border-left: 1px solid #00adb5;
+  border-right: 1px solid #00adb5;
+    color: white;
+  transition: 300ms;
+  outline: none;
+}
+img{
+  width: 500px;
+  height: auto;
+  padding: 20px;
+}
+.card-body{
+  padding: 5px;
+}
+.card{
+  padding: 0px;
+  border-radius: 20px ;
+  margin: 30px;
+}
+.btn1 a{
+  color: azure;
+  font-family: "Georgia";
+  font-weight: bold;
+}
+.btn1:hover{
+  background-color: #4d5a62;
+}
+.container{
+  text-align: center;
+
+}

@@ -1,0 +1,20 @@
+.card{
+  box-shadow: 0px 0px 4px 4px rgba(153, 151, 151, 0.479);
+}
+table>thead>td{
+  background-color: #10e9c2;
+  padding: 10px 0;
+  font-weight: bold;
+  font-family: 'Poppins';
+}
+table>tr>td{
+  background-color: #eaeaea;
+  padding: 10px 0;
+}
+table {
+  border: none;
+}
+table>tr{
+  border:none;
+  border-bottom: 1px solid black;
+}
